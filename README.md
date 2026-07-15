@@ -2,3 +2,9 @@
 对电子游戏Pong的重现，仅支持人机对战，使用虚幻引擎5.7.4的蓝图制作。
 
 A recreation of Pong, one of the earliest and most influential video games. This version only supports AI-based single-player matches and is developed entirely with Unreal Engine 5.7.4 Blueprint scripting.
+
+可执行文件压缩包：
+
+the compressed executable package：
+
+https://drive.google.com/file/d/1zvhzr1EKBfzX0ItiK6tXAjneTuDHX2KB/view?usp=sharing
