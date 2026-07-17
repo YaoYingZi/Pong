@@ -27,4 +27,4 @@ A recreation of Pong, one of the earliest and most influential video games. ~~Th
 
 the compressed executable package：
 
-https://drive.google.com/file/d/1zvhzr1EKBfzX0ItiK6tXAjneTuDHX2KB/view?usp=sharing
+https://drive.google.com/file/d/1oDoS3fGHuiFIYrASzr880dJgJMyeUJKW/view?usp=sharing
